@@ -13,5 +13,6 @@
 - when you clone the code you
 -   Composer update
 -  php artisan migrate
+-  npm install $$ npm run dev
 -  php artisan serve
 -  then view the front end
